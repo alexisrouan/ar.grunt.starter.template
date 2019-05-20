@@ -8,15 +8,25 @@ A skeletons for front project using grunt.
 NPM GIT
 
 
-### Installing
+### Installation
 
-```
+#### Clone repo
+
+``` bash
+# clone the repo
+$ git clone https://github.com/alexisrouan/ar.grunt.starter.template.git my-project
+
+# go into app's directory
+$ cd my-project
+
+# install app's dependencies
 $ npm install
 ```
 
-### Launch grunt
+### Usage
 
-```
+``` bash
+# launch grunt
 $ grunt
 ```
 
