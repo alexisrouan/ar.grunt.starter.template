@@ -1,0 +1,1 @@
+ar.grunt.starter.template
